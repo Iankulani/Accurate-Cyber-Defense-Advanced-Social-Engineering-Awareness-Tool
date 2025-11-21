@@ -72,3 +72,16 @@ cd Accurate-Cyber-Defense-Advanced-Social-Engineering-Awareness-Tool
 python3 Accurate-Cyber-Defense-Advanced-Social-Engineering-Awareness-Tool.py
 
 ```
+
+
+## Screenshots
+
+<img width="500" height="500" alt="Screenshot (1155)" src="https://github.com/user-attachments/assets/d1c4bc40-166b-4257-a1b6-211ba3d7e7ba" />
+
+
+<img width="500" height="500" alt="Screenshot (1156)" src="https://github.com/user-attachments/assets/8b565209-fbfd-4c41-8d4f-11d89bbe9996" />
+
+
+<img width="500" height="500" alt="Screenshot (1157)" src="https://github.com/user-attachments/assets/b34e4292-c919-4406-85f7-0fb9dda9e9d4" />
+
+
