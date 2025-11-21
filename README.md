@@ -53,3 +53,22 @@ It encourages users to think critically before clicking, downloading, responding
 Through realistic simulations, psychological awareness, guided learning, and risk-free practice, this tool delivers 
 a powerful educational experience designed for the modern threat landscape. It is entirely for training, awareness, 
 and ethical defense, ensuring users become more resilient against phishing, vanishing-message deception, impersonation attempts, manipulation tactics, and the evolving world of social engineering.
+
+
+
+
+
+
+## How to clone the repository
+```bash
+git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Advanced-Social-Engineering-Awareness-Tool.git
+
+cd Accurate-Cyber-Defense-Advanced-Social-Engineering-Awareness-Tool
+```
+## How to run
+
+```bash
+
+python3 Accurate-Cyber-Defense-Advanced-Social-Engineering-Awareness-Tool.py
+
+```
